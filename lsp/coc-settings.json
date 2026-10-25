@@ -1,0 +1,9 @@
+{
+  "languageserver": {
+    "rgc": {
+      "command": "rgc",
+      "args": ["lsp", "--stdio"],
+      "filetypes": ["rgc"]
+    }
+  }
+}
